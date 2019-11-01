@@ -5,4 +5,7 @@
     <string name="quero_me_cadastrar">Quero me cadastrar</string>
     <string name="data_nome">Em %s, %s diz:</string>
     <string name="digite_sua_mensagem">Digite a sua mensagem</string>
+    <string name="no_email_no_pic">SEM EMAIL NÃO ROLA</string>
+    <string name="cant_take_pic">não rola tirar foto</string>
+    <string name="no_pic_taken">nonono</string>
 </resources>
